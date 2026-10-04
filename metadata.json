@@ -1,0 +1,6 @@
+{
+  "name": "PROESA Distribuidora - Catálogo & Pedidos",
+  "description": "Catálogo oficial de distribución mayorista y minorista de productos de limpieza, desinfección y línea Maxi Brill de PROESA Distribuidora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

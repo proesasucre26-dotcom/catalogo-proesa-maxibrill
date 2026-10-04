@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320">
+  <g transform="translate(20, 10)">
+    <path fill="#C4272B" d="M100 8C49.2 8 8 49.2 8 100v92h22v-92c0-38.7 31.3-70 70-70s70 31.3 70 70-31.3 70-70 70c-20 0-38-8.4-50.7-22L34 162.7C50.2 180.7 73.8 192 100 192c50.8 0 92-41.2 92-92S150.8 8 100 8z"/>
+    <path fill="#C4272B" d="M100 48c-28.7 0-52 23.3-52 52v92h22v-92c0-16.6 13.4-30 30-30s30 13.4 30 30-13.4 30-30 30c-8.6 0-16.4-3.6-21.9-9.4l-15.3 14.7C70.6 143.4 84.4 150 100 150c27.6 0 50-22.4 50-50s-22.4-52-50-52z"/>
+  </g>
+  <text x="120" y="248" font-family="'Space Grotesk', 'Montserrat', sans-serif" font-weight="800" font-size="44" fill="#C4272B" text-anchor="middle">PROESA</text>
+  <text x="120" y="284" font-family="'Hanken Grotesk', 'Arial', sans-serif" font-weight="700" font-size="24" fill="#C4272B" text-anchor="middle">Distribuidora</text>
+</svg>
